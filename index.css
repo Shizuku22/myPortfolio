@@ -43,9 +43,7 @@ body {
     box-shadow: 3px 3px 8px 3px rgba(134,0,84,0.8);
 }
 
-.nav {
-    margin-top: 20px;
-}
+
 
 .nav ul {
     display: flex;
