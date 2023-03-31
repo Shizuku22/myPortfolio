@@ -25,9 +25,15 @@ body {
 
 .header button {
     width: 200px;
+    border: 1px solid white;
     border-radius: 20px;
     color: white;
     background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(96,1,113,1) 47%, rgba(134,0,84,1) 100%);
+}
+
+.header button:hover {
+    background: transparent;
+    border: 1px solid white;
 }
 
 .header2 img {
